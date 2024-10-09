@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Free Download Manager
+Comment=FDM is a powerful modern download accelerator and organizer
+Keywords=download;manager;free;fdm;
+Exec=/opt/freedownloadmanager/fdm
+Terminal=false
+Type=Application
+Icon=/opt/freedownloadmanager/icon.png
+Categories=Network;FileTransfer;P2P;GTK;
+StartupNotify=true
+Name[uk_UA]=freedownloadmanager.desktop.bak

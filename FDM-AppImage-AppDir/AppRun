@@ -1,0 +1,9 @@
+#!/bin/bash
+# Author: Y@Ldysse
+
+cd "$(dirname "$0")"
+
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:./usr/lib64/"
+export QT_QPA_PLATFORM_PLUGIN_PATH="opt/freedownloadmanager/plugins/"
+
+exec ./opt/freedownloadmanager/fdm "$@"
