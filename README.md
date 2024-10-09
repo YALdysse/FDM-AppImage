@@ -1,7 +1,5 @@
 # Free Download Manager AppImage package
 
----
-
 This repository contains resources of AppImage package of Free Download Manager.
 
 ### Tested on:
