@@ -4,7 +4,7 @@ This repository contains resources of AppImage package of Free Download Manager.
 
 ### Tested on:
 + Manjaro XFCE 24.1.0 Xahea
-+ manjaro KDE 24.1.0
++ Manjaro KDE 24.1.0 Xahea
 + Linux Mint 21.3 Cinnamon
 
 
